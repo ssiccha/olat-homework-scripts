@@ -1,3 +1,8 @@
+Scripts to manage student homework and feedback downloaded from and uploaded to
+an OpenOlat instance.
+
+## Rough description (in german)
+
 Eigentlich braucht man nur die Skripte `unpack-clean-compress-submissions.sh` und `prepare-bulk-assessment.py`.
 Mein Workflow pro Blatt war dann ungefähr so:
 - Im Olat hab ich für eine Aufgabe "Blatt X" erstellt. Unter dem Reiter
